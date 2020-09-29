@@ -4,7 +4,7 @@ _site/
 Gemfile.lock
 www/*.csv
 www/*.json
-
+.idea/
 # Default Python
 # Byte-compiled / optimized / DLL files
 __pycache__/
